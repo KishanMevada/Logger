@@ -6,8 +6,8 @@ public class Logger
 {
     private static final String TAG = "Logger";
 
-    public static void d(String message)
+    public static void d(String mes)
     {
-        Log.d(TAG,message);
+        Log.d(TAG,mes);
     }
 }
